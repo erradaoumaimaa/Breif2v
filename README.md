@@ -16,7 +16,7 @@ Utilisez HTML pour structurer le contenu de chaque page.
 Utilisez CSS pour styliser le site en fonction du design Figma.
 
 ## Pour la planification :
-lien de trello : https://trello.com/b/O5wfzcTJ/breif
+lien de trello : [https://trello.com/b/O5wfzcTJ/breif](https://trello.com/invite/b/O5wfzcTJ/ATTI5e8bb595e908666489fde02f6e3e5e069CA3B8E7/breif)https://trello.com/invite/b/O5wfzcTJ/ATTI5e8bb595e908666489fde02f6e3e5e069CA3B8E7/breif
 
 ## lien github:
 https://github.com/oumaima2000-inf/Breif2v
