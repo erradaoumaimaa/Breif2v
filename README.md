@@ -2,7 +2,7 @@
 Ce projet consiste à créer un site web pour un restaurant de pizza en utilisant HTML et CSS. 
 Le site devra comporter quatre pages principales : la page d'accueil, la page des produits, la page "À propos" et la page de contact. 
 ## lConception du Site:
-Le design du site a été réalisé en utilisant Figma. Vous trouverez les maquettes et les fichiers de conception dans le dossier Figma fourni avec ce projet.
+Le design du site a été réalisé en utilisant Figma. Vous trouverez les maquettes  dans le dossier Figma fourni avec ce projet.
 ## Structure des Fichiers:
 index.html : La page d'accueil du site.
 menu.html : La page de menu du restaurant.
