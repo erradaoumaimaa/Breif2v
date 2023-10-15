@@ -20,3 +20,5 @@ lien de trello : [https://trello.com/b/O5wfzcTJ/breif](https://trello.com/invite
 
 ## lien github:
 https://github.com/oumaima2000-inf/Breif2v
+## lien vers FIGMA:
+https://www.figma.com/file/9ppq1nZBpFL6hY8fd9BM0V/maquettev_restaurant_pizza?type=design&node-id=0%3A1&mode=design&t=Okvx33eDL1SZYsFP-1
