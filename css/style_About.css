@@ -164,7 +164,9 @@ span{
     grid-column:3/5;
     grid-row:1/2;
 }
-
+p .foot{
+    color: #fff;
+}
 .footerContent{
    margin-top: 500px;
    text-align: center;
